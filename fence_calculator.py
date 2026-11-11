@@ -1,6 +1,3 @@
-# Y10 Programming 2024 - Assignment 2 Fence Cost Calculator
-# Name: Catherine
-
 def num_check(question):
     error = "Please enter a number that is more than zero\n"
     while True:
